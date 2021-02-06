@@ -1,7 +1,7 @@
 input.onButtonPressed(Button.A, function () {
     vehicle.turn_left(100)
     basic.pause(1000)
-    vehicle.drive(-80, -50)
+    vehicle.drive(-80, 0)
     basic.pause(1000)
     vehicle.stop()
 })
