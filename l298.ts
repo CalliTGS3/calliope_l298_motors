@@ -11,7 +11,8 @@ namespace l298 {
         * @param speed a value between -100 and 100. speed < 0 is backwards
         */
         //% speed.min=-100 speed.max=100
-        //% block="drehe Motor $this(motor) mit Geschwindigkeit $speed"
+        //% block="turn motor $this(motor) with $speed"
+        //% block.loc.de="drehe Motor $this(motor) mit Geschwindigkeit $speed"
         turn(speed: number): void {   
             if (speed > 0) {
                 pins.servoSetPulse(this.en, speed * 200)
