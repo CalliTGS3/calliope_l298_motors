@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://verena-km.github.io/calliope_l298_motors/](https://verena-km.github.io/calliope_l298_motors/) öffnen
+> Diese Seite bei [https://github.com/CalliTGS3/calliope_l298_motors/](https://github.com/CalliTGS3/calliope_l298_motors/) öffnen
 
 ## Als Erweiterung verwenden
 
@@ -23,7 +23,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
 Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
-![Eine gerenderte Ansicht der Blöcke](https://github.com/verena-km/calliope_l298_motors/raw/master/.github/makecode/blocks.png)
+![Eine gerenderte Ansicht der Blöcke](https://github.com/CalliTGS3/calliope_l298_motors/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
